@@ -3,26 +3,12 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR NAME] with your full name (3 places)
-- [ ] Replace [YOUR JOB TITLE] with your current or target role
-- [ ] Replace [YOUR TAGLINE] with a short phrase describing your focus
-- [ ] Rewrite the About Me paragraph with your own words
-- [ ] Replace assets/images/profile.png with your actual photo (keep the filename or update it below)
-- [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
-- [ ] Edit the skill cards to match your actual skills (add, remove, or rename cards as needed)
-- [ ] Update GitHub and LinkedIn links in the Connect section
-- [ ] Add your CV PDF to docs/assets/ and update the filename in the Download CV button
--->
-
-
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Warish Hussain" class="profile-photo">
+  <h1>Warish Hussain</h1>
+  <p><strong>Environmental Analyst</strong></p>
+  <p><em>Turning climate & spatial data into insights | GIS | Remote Sensing | ESG | Sustainability | Climate Risk</em></p>
 </div>
 
 ---
@@ -32,15 +18,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am an environmental professional with a background in environmental science, sustainability, and geospatial analysis. I work on understanding climate and environmental challenges through GIS, remote sensing, and climate data analysis, with interests spanning climate risk assessment, urban ecology, heat stress, and nature-based solutions. I use tools and methods including Python, GIS, remote sensing, climate datasets such as ERA5 and CMIP, and sustainability frameworks to support data-driven environmental decision-making. I am currently seeking opportunities in Climate Risk Analysis, GIS and Geospatial Analytics, Sustainability Consulting, and Environmental Data Analysis in Delhi-NCR or remote roles.
 
 </div>
 
@@ -53,8 +31,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
-
+[Download CV :material-download:](assets/Warish_CV.pdf){ .md-button }
 
 ---
 
@@ -62,61 +39,66 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+- :material-layers:{ .lg .middle } **GIS & Geospatial Analysis**
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - QGIS, ArcGIS Pro
+    - Spatial analysis and geoprocessing
+    - Cartography and map visualization
+    - Geospatial data management and analysis
 
--   :material-code-braces:{ .lg .middle } **Programming**
-
-    ---
-
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+- :material-satellite-variant:{ .lg .middle } **Remote Sensing & Earth Observation**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - Google Earth Engine
+    - Satellite data processing and analysis
+    - Land use and land cover analysis
+    - Environmental and urban monitoring
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
+- :material-code-braces:{ .lg .middle } **Programming & Data Analysis**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Python
+    - Pandas, NumPy, Matplotlib
+    - Jupyter Notebook
+    - Data cleaning, visualization, and analysis
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+- :material-weather-sunny-alert:{ .lg .middle } **Climate Data & Risk Assessment**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    ---
+
+    - ERA5 reanalysis datasets
+    - CMIP climate model datasets
+    - Heat stress and climate vulnerability analysis
+    - Climate risk and resilience assessment
+
+- :material-leaf:{ .lg .middle } **Sustainability & ESG**
+
+    ---
+
+    - ESG reporting frameworks (GRI, CDP, TCFD, BRSR, SBTi)
+    - GHG inventory and emissions accounting
+    - Water risk assessments
+    - Sustainability reporting and disclosure
+
+- :material-city:{ .lg .middle } **Environmental Applications**
+
+    ---
+
+    - Urban ecology and climate resilience
+    - Nature-based Solutions (NbS)
+    - Environmental impact assessment support
+    - Spatial decision support for sustainability
+
 </div>
-
 
 ---
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/warish6798){ .md-button }
+[LinkedIn](https://www.linkedin.com/in/warish-hussain-4b1b41228){ .md-button }
+[ResearchGate](https://www.researchgate.net/profile/Warish-Hussain-2){ .md-button }

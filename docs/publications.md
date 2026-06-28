@@ -1,46 +1,19 @@
----
-hide:
-  - toc
-  - navigation
----
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove entries in each section as needed
-- [ ] Remove sections that are not applicable (e.g., Theses, Conference Presentations)
-- [ ] Add DOI or URL links where available
--->
-
 # Publications
 
 ## Journal Articles
 
-1. [YOUR NAME], [CO-AUTHOR NAME], and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
+### Spatial Monitoring and Analysis of Haloacetic Acids in Drinking Water Using GIS: A Case Study of Jamia Nagar, New Delhi
 
-2. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
+**Ahmed, S., Mazhar, M.A. & Hussain, W.**
 
-3. [YOUR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
+*Environmental Monitoring and Assessment*, 198, 46 (2026)
 
----
-
-## Conference Papers & Presentations
-
-1. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
-
-2. [YOUR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
+[Read Paper :material-open-in-new:](https://doi.org/10.1007/s10661-025-14783-z){ .md-button .md-button--primary }
 
 ---
 
-## Theses
+**Abstract**
 
-- [YOUR NAME] ([YEAR]). *[Your thesis title]*. [Degree type] thesis. [University Name].
-
----
-
-## Reports & Technical Documents
-
-- [YOUR NAME] et al. ([YEAR]). *[Report title]*. [Organization Name]. [URL or DOI if available]
-
----
-
-*For citation counts and a full list, see [Google Scholar](https://scholar.google.com) or [ResearchGate](https://www.researchgate.net).*
+This study focuses on the spatial monitoring and analysis of haloacetic acids (HAAs) in drinking water
+using GIS techniques, with Jamia Nagar, New Delhi as the study area. The research investigates the
+spatial variation of HAA concentrations and their implications for drinking water quality and public health.

@@ -3,45 +3,38 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace the two placeholder cards (marked [YOUR PROJECT ...]) with your real projects
-- [ ] For each project: add a thumbnail image to docs/assets/images/ and update the path below
-- [ ] For each project: create a project page by copying sample-project.md
-- [ ] For each project: add a nav entry in mkdocs.yml (see the comments there)
-- [ ] Delete placeholder cards you don't need yet
--->
 
 # Projects
 
-A selection of my geospatial projects. Click any card to see the full write-up.
+A selection of my geospatial and environmental projects. Click any card to see the full write-up.
 
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/plant-map-cover.png)
 
-**[Sample Project](sample-project.md)**
+**[Industrial Plant Location Mapping — Jammu & Kashmir](plant-location-map.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+An interactive web map visualizing industrial plant locations across Jammu & Kashmir,
+built using Python, Leafmap, and Folium with OpenStreetMap base tiles and clickable popups.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`Python` `Leafmap` `Folium` `OpenStreetMap`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](plant-location-map.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
+![](../assets/images/carbon-stock-cover.png)
 
-**[Sample Notebook](sample-notebook.ipynb)**
+**[Carbon Stock Mapping — JMI Campus](carbon-stock-mapping.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Machine learning-based carbon stock estimation for Jamia Millia Islamia campus using
+Sentinel-1 SAR, Sentinel-2 optical imagery, GEDI LiDAR, and Random Forest regression
+in Google Earth Engine.
 
-`Python` `pandas` `Folium`
+`Google Earth Engine` `Sentinel-1` `Sentinel-2` `Random Forest` `GEDI`
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+[View Project →](carbon-stock-mapping.md){ .md-button }
 </div>
 
 </div>

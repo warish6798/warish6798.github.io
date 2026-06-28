@@ -1,32 +1,23 @@
----
-hide:
-  - toc
-  - navigation
----
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR-EMAIL-ADDRESS] with your actual email
-- [ ] Replace [YOUR-GITHUB-USERNAME] with your GitHub username
-- [ ] Replace [YOUR-LINKEDIN-USERNAME] with your LinkedIn username
-- [ ] Replace [YOUR-NAME] in the CV link with the actual filename of your PDF
-- [ ] Delete the Twitter/X row if you don't use it
-- [ ] Delete the ResearchGate row if not applicable
--->
-
 # Contact
 
-I am open to work opportunities, collaborations, and project discussions.
-Feel free to reach out through any of the channels below.
+I am currently open to opportunities in Climate Risk Analysis, GIS and Geospatial Analytics,
+Sustainability Consulting, and Environmental Data Analysis in Delhi-NCR or remote roles.
+Feel free to reach out!
 
 ---
+
+## Get in Touch
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [warish6798@gmail.com](mailto:warish6798@gmail.com) |
+| :material-phone: **Phone** | +91-8252987154 |
+| :material-map-marker: **Location** | New Delhi, India |
 
 ---
 
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button .md-button--primary }
+## Connect Online
+
+[GitHub](https://github.com/warish6798){ .md-button }
+[LinkedIn](https://www.linkedin.com/in/warish-hussain-4b1b41228){ .md-button }
+[ResearchGate](https://www.researchgate.net/profile/Warish-Hussain-2){ .md-button }
