@@ -47,6 +47,7 @@ I am an environmental professional with a background in environmental science, s
     - Spatial analysis and geoprocessing
     - Cartography and map visualization
     - Geospatial data management and analysis
+    
 
 - :material-satellite-variant:{ .lg .middle } **Remote Sensing & Earth Observation**
 
@@ -55,7 +56,7 @@ I am an environmental professional with a background in environmental science, s
     - Google Earth Engine
     - Satellite data processing and analysis
     - Land use and land cover analysis
-    - Environmental and urban monitoring
+    - Environmental and urban Heat and Water monitoring
 
 - :material-code-braces:{ .lg .middle } **Programming & Data Analysis**
 
@@ -92,6 +93,16 @@ I am an environmental professional with a background in environmental science, s
     - Nature-based Solutions (NbS)
     - Environmental impact assessment support
     - Spatial decision support for sustainability
+
+- :material-waves-arrow-up:{ .lg .middle } **Water Resources & Hydrological Modelling**
+
+    ---
+
+    - Hydrological modelling using HEC-HMS
+    - Hydraulic and flood modelling using HEC-RAS
+    - Urban stormwater and drainage modelling using SWMM
+    - GIS-based hydrological analysis
+    
 
 </div>
 
