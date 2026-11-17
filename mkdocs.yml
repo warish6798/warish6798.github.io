@@ -76,6 +76,7 @@ nav:
     - "All Projects": projects/index.md
     - "Industrial Plant Mapping": projects/plant-location-map.md
     - "Carbon Stock Mapping": projects/carbon-stock-mapping.md
+    - "Hydrological Modelling (Adyar Basin)": projects/Adyar-basin-modelling.md
   - Publications: publications.md
   - Experience: experience.md
   - Contact: contact.md
